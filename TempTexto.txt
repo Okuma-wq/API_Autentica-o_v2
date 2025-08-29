@@ -1,0 +1,3 @@
+MONGO_URI=mongodb+srv://AcessoAutenticacao:DUleMiiGgZ9DcArE@clusterfatec.rt22dse.mongodb.net/?retryWrites=true&w=majority&appName=ClusterFatec
+JWT_SECRET=svgwtf
+PORT=3000
